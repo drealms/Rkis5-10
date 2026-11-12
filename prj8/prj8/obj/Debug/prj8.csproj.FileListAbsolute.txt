@@ -1,0 +1,15 @@
+C:\Users\user\Documents\rkis\prj8\prj8\bin\Debug\prj8.exe.config
+C:\Users\user\Documents\rkis\prj8\prj8\bin\Debug\prj8.exe
+C:\Users\user\Documents\rkis\prj8\prj8\bin\Debug\prj8.pdb
+C:\Users\user\Documents\rkis\prj8\prj8\bin\Debug\EntityFramework.dll
+C:\Users\user\Documents\rkis\prj8\prj8\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Documents\rkis\prj8\prj8\bin\Debug\EntityFramework.xml
+C:\Users\user\Documents\rkis\prj8\prj8\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Documents\rkis\prj8\prj8\obj\Debug\prj8.csproj.AssemblyReference.cache
+C:\Users\user\Documents\rkis\prj8\prj8\obj\Debug\prj8.Form1.resources
+C:\Users\user\Documents\rkis\prj8\prj8\obj\Debug\prj8.Properties.Resources.resources
+C:\Users\user\Documents\rkis\prj8\prj8\obj\Debug\prj8.csproj.GenerateResource.cache
+C:\Users\user\Documents\rkis\prj8\prj8\obj\Debug\prj8.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\rkis\prj8\prj8\obj\Debug\prj8.csproj.Up2Date
+C:\Users\user\Documents\rkis\prj8\prj8\obj\Debug\prj8.exe
+C:\Users\user\Documents\rkis\prj8\prj8\obj\Debug\prj8.pdb

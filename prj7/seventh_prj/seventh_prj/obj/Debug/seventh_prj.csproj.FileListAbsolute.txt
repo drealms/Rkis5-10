@@ -1,0 +1,15 @@
+C:\Users\user\Documents\rkis\seventh_prj\seventh_prj\bin\Debug\seventh_prj.exe.config
+C:\Users\user\Documents\rkis\seventh_prj\seventh_prj\bin\Debug\seventh_prj.exe
+C:\Users\user\Documents\rkis\seventh_prj\seventh_prj\bin\Debug\seventh_prj.pdb
+C:\Users\user\Documents\rkis\seventh_prj\seventh_prj\bin\Debug\EntityFramework.dll
+C:\Users\user\Documents\rkis\seventh_prj\seventh_prj\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Documents\rkis\seventh_prj\seventh_prj\bin\Debug\EntityFramework.xml
+C:\Users\user\Documents\rkis\seventh_prj\seventh_prj\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Documents\rkis\seventh_prj\seventh_prj\obj\Debug\seventh_prj.csproj.AssemblyReference.cache
+C:\Users\user\Documents\rkis\seventh_prj\seventh_prj\obj\Debug\seventh_prj.Properties.Resources.resources
+C:\Users\user\Documents\rkis\seventh_prj\seventh_prj\obj\Debug\seventh_prj.csproj.GenerateResource.cache
+C:\Users\user\Documents\rkis\seventh_prj\seventh_prj\obj\Debug\seventh_prj.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\rkis\seventh_prj\seventh_prj\obj\Debug\seventh_.C03CF467.Up2Date
+C:\Users\user\Documents\rkis\seventh_prj\seventh_prj\obj\Debug\seventh_prj.exe
+C:\Users\user\Documents\rkis\seventh_prj\seventh_prj\obj\Debug\seventh_prj.pdb
+C:\Users\user\Documents\rkis\seventh_prj\seventh_prj\obj\Debug\seventh_prj.Form1.resources

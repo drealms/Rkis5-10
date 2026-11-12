@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\rkis\\Pr_2Add_DeleteData\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{051B9A14-0B4C-414C-B453-E2A3B8F07F36}|Pr_2Add_DeleteData\\Pr_2Add_DeleteData.csproj|c:\\users\\user\\documents\\rkis\\pr_2add_deletedata\\pr_2add_deletedata\\formaddupdmd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051B9A14-0B4C-414C-B453-E2A3B8F07F36}|Pr_2Add_DeleteData\\Pr_2Add_DeleteData.csproj|solutionrelative:pr_2add_deletedata\\formaddupdmd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051B9A14-0B4C-414C-B453-E2A3B8F07F36}|Pr_2Add_DeleteData\\Pr_2Add_DeleteData.csproj|C:\\Users\\user\\Documents\\rkis\\Pr_2Add_DeleteData\\pr_2add_deletedata\\formaddupdmd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{051B9A14-0B4C-414C-B453-E2A3B8F07F36}|Pr_2Add_DeleteData\\Pr_2Add_DeleteData.csproj|solutionrelative:pr_2add_deletedata\\formaddupdmd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051B9A14-0B4C-414C-B453-E2A3B8F07F36}|Pr_2Add_DeleteData\\Pr_2Add_DeleteData.csproj|C:\\Users\\user\\Documents\\rkis\\Pr_2Add_DeleteData\\pr_2add_deletedata\\formshowmot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{051B9A14-0B4C-414C-B453-E2A3B8F07F36}|Pr_2Add_DeleteData\\Pr_2Add_DeleteData.csproj|solutionrelative:pr_2add_deletedata\\formshowmot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormAddUPDMD.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\rkis\\Pr_2Add_DeleteData\\Pr_2Add_DeleteData\\FormAddUPDMD.cs",
+              "RelativeDocumentMoniker": "Pr_2Add_DeleteData\\FormAddUPDMD.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\rkis\\Pr_2Add_DeleteData\\Pr_2Add_DeleteData\\FormAddUPDMD.cs [Design]",
+              "RelativeToolTip": "Pr_2Add_DeleteData\\FormAddUPDMD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T10:13:50.163Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormAddUPDMD.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\rkis\\Pr_2Add_DeleteData\\Pr_2Add_DeleteData\\FormAddUPDMD.cs",
+              "RelativeDocumentMoniker": "Pr_2Add_DeleteData\\FormAddUPDMD.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\rkis\\Pr_2Add_DeleteData\\Pr_2Add_DeleteData\\FormAddUPDMD.cs",
+              "RelativeToolTip": "Pr_2Add_DeleteData\\FormAddUPDMD.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAACwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T15:53:13.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormShowMot.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\rkis\\Pr_2Add_DeleteData\\Pr_2Add_DeleteData\\FormShowMot.cs",
+              "RelativeDocumentMoniker": "Pr_2Add_DeleteData\\FormShowMot.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\rkis\\Pr_2Add_DeleteData\\Pr_2Add_DeleteData\\FormShowMot.cs [Design]",
+              "RelativeToolTip": "Pr_2Add_DeleteData\\FormShowMot.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T10:11:49.976Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

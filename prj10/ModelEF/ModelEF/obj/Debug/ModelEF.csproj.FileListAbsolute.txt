@@ -1,0 +1,16 @@
+C:\Users\user\Documents\rkis\ModelEF\ModelEF\bin\Debug\ModelEF.exe.config
+C:\Users\user\Documents\rkis\ModelEF\ModelEF\bin\Debug\ModelEF.exe
+C:\Users\user\Documents\rkis\ModelEF\ModelEF\bin\Debug\ModelEF.pdb
+C:\Users\user\Documents\rkis\ModelEF\ModelEF\bin\Debug\EntityFramework.dll
+C:\Users\user\Documents\rkis\ModelEF\ModelEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Documents\rkis\ModelEF\ModelEF\bin\Debug\EntityFramework.xml
+C:\Users\user\Documents\rkis\ModelEF\ModelEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Documents\rkis\ModelEF\ModelEF\obj\Debug\ModelEF.csproj.AssemblyReference.cache
+C:\Users\user\Documents\rkis\ModelEF\ModelEF\obj\Debug\ModelEF.Properties.Resources.resources
+C:\Users\user\Documents\rkis\ModelEF\ModelEF\obj\Debug\ModelEF.csproj.GenerateResource.cache
+C:\Users\user\Documents\rkis\ModelEF\ModelEF\obj\Debug\ModelEF.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\rkis\ModelEF\ModelEF\obj\Debug\ModelEF.csproj.Up2Date
+C:\Users\user\Documents\rkis\ModelEF\ModelEF\obj\Debug\ModelEF.exe
+C:\Users\user\Documents\rkis\ModelEF\ModelEF\obj\Debug\ModelEF.pdb
+C:\Users\user\Documents\rkis\ModelEF\ModelEF\obj\Debug\ModelEF.Form1.resources
+C:\Users\user\Documents\rkis\ModelEF\ModelEF\obj\Debug\ModelEF.Form2Authorization.resources

@@ -1,0 +1,16 @@
+C:\Users\user\Documents\rkis\labwork_9\labwork_9\bin\Debug\labwork_9.exe.config
+C:\Users\user\Documents\rkis\labwork_9\labwork_9\bin\Debug\labwork_9.exe
+C:\Users\user\Documents\rkis\labwork_9\labwork_9\bin\Debug\labwork_9.pdb
+C:\Users\user\Documents\rkis\labwork_9\labwork_9\bin\Debug\EntityFramework.dll
+C:\Users\user\Documents\rkis\labwork_9\labwork_9\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Documents\rkis\labwork_9\labwork_9\bin\Debug\EntityFramework.xml
+C:\Users\user\Documents\rkis\labwork_9\labwork_9\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Documents\rkis\labwork_9\labwork_9\obj\Debug\labwork_9.csproj.AssemblyReference.cache
+C:\Users\user\Documents\rkis\labwork_9\labwork_9\obj\Debug\labwork_9.Properties.Resources.resources
+C:\Users\user\Documents\rkis\labwork_9\labwork_9\obj\Debug\labwork_9.csproj.GenerateResource.cache
+C:\Users\user\Documents\rkis\labwork_9\labwork_9\obj\Debug\labwork_9.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\rkis\labwork_9\labwork_9\obj\Debug\labwork_9.csproj.Up2Date
+C:\Users\user\Documents\rkis\labwork_9\labwork_9\obj\Debug\labwork_9.exe
+C:\Users\user\Documents\rkis\labwork_9\labwork_9\obj\Debug\labwork_9.pdb
+C:\Users\user\Documents\rkis\labwork_9\labwork_9\obj\Debug\labwork_9.Form1.resources
+C:\Users\user\Documents\rkis\labwork_9\labwork_9\obj\Debug\labwork_9.Form2.resources

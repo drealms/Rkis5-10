@@ -1,0 +1,16 @@
+C:\Users\user\Documents\rkis\Pr_2Add_DeleteData\Pr_2Add_DeleteData\obj\Debug\Pr_2Add_DeleteData.csproj.AssemblyReference.cache
+C:\Users\user\Documents\rkis\Pr_2Add_DeleteData\Pr_2Add_DeleteData\obj\Debug\Pr_2Add_DeleteData.FormShowMot.resources
+C:\Users\user\Documents\rkis\Pr_2Add_DeleteData\Pr_2Add_DeleteData\obj\Debug\Pr_2Add_DeleteData.Properties.Resources.resources
+C:\Users\user\Documents\rkis\Pr_2Add_DeleteData\Pr_2Add_DeleteData\obj\Debug\Pr_2Add_DeleteData.csproj.GenerateResource.cache
+C:\Users\user\Documents\rkis\Pr_2Add_DeleteData\Pr_2Add_DeleteData\obj\Debug\Pr_2Add_DeleteData.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\rkis\Pr_2Add_DeleteData\Pr_2Add_DeleteData\bin\Debug\Pr_2Add_DeleteData.exe.config
+C:\Users\user\Documents\rkis\Pr_2Add_DeleteData\Pr_2Add_DeleteData\bin\Debug\Pr_2Add_DeleteData.exe
+C:\Users\user\Documents\rkis\Pr_2Add_DeleteData\Pr_2Add_DeleteData\bin\Debug\Pr_2Add_DeleteData.pdb
+C:\Users\user\Documents\rkis\Pr_2Add_DeleteData\Pr_2Add_DeleteData\obj\Debug\Pr_2Add_DeleteData.exe
+C:\Users\user\Documents\rkis\Pr_2Add_DeleteData\Pr_2Add_DeleteData\obj\Debug\Pr_2Add_DeleteData.pdb
+C:\Users\user\Documents\rkis\Pr_2Add_DeleteData\Pr_2Add_DeleteData\bin\Debug\EntityFramework.dll
+C:\Users\user\Documents\rkis\Pr_2Add_DeleteData\Pr_2Add_DeleteData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Documents\rkis\Pr_2Add_DeleteData\Pr_2Add_DeleteData\bin\Debug\EntityFramework.xml
+C:\Users\user\Documents\rkis\Pr_2Add_DeleteData\Pr_2Add_DeleteData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Documents\rkis\Pr_2Add_DeleteData\Pr_2Add_DeleteData\obj\Debug\Pr_2Add_.A6CACCDA.Up2Date
+C:\Users\user\Documents\rkis\Pr_2Add_DeleteData\Pr_2Add_DeleteData\obj\Debug\Pr_2Add_DeleteData.FormAddUPDMD.resources

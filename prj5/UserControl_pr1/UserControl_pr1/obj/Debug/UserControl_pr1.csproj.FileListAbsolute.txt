@@ -1,0 +1,16 @@
+C:\Users\user\Documents\rkis\UserControl_pr1\UserControl_pr1\bin\Debug\UserControl_pr1.exe.config
+C:\Users\user\Documents\rkis\UserControl_pr1\UserControl_pr1\bin\Debug\UserControl_pr1.exe
+C:\Users\user\Documents\rkis\UserControl_pr1\UserControl_pr1\bin\Debug\UserControl_pr1.pdb
+C:\Users\user\Documents\rkis\UserControl_pr1\UserControl_pr1\bin\Debug\EntityFramework.dll
+C:\Users\user\Documents\rkis\UserControl_pr1\UserControl_pr1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Documents\rkis\UserControl_pr1\UserControl_pr1\bin\Debug\EntityFramework.xml
+C:\Users\user\Documents\rkis\UserControl_pr1\UserControl_pr1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Documents\rkis\UserControl_pr1\UserControl_pr1\obj\Debug\UserControl_pr1.csproj.AssemblyReference.cache
+C:\Users\user\Documents\rkis\UserControl_pr1\UserControl_pr1\obj\Debug\UserControl_pr1.Properties.Resources.resources
+C:\Users\user\Documents\rkis\UserControl_pr1\UserControl_pr1\obj\Debug\UserControl_pr1.csproj.GenerateResource.cache
+C:\Users\user\Documents\rkis\UserControl_pr1\UserControl_pr1\obj\Debug\UserControl_pr1.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\rkis\UserControl_pr1\UserControl_pr1\obj\Debug\UserCont.2F5A6ECB.Up2Date
+C:\Users\user\Documents\rkis\UserControl_pr1\UserControl_pr1\obj\Debug\UserControl_pr1.exe
+C:\Users\user\Documents\rkis\UserControl_pr1\UserControl_pr1\obj\Debug\UserControl_pr1.pdb
+C:\Users\user\Documents\rkis\UserControl_pr1\UserControl_pr1\obj\Debug\UserControl_pr1.UserControl1.resources
+C:\Users\user\Documents\rkis\UserControl_pr1\UserControl_pr1\obj\Debug\UserControl_pr1.MainForm.resources
